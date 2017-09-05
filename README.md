@@ -1,4 +1,4 @@
-# Predicting users e-commerce journeys
+# Modelling Contextual Information for Session-Based Recommendations with Recurrent Neural Networks
 This is the accompanying code for my thesis at University College London
 Due to EU policy, the data in this project is not available to be shared publicly.
 
